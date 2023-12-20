@@ -1,0 +1,53 @@
+# calculator_in_javaa
+
+import java.util.Scanner;
+
+// public class calculator {
+//     public static void main(String[] args) {
+//         float first;
+//         float second ;
+//         System.out.println("\n***************** CALCULATOR ******************");
+//         System.out.println(" 1. Addition \n 2. Subtraction \n 3. Multiply \n 4. Divide");
+//         System.out.print("What You Want them ? :");
+//         Scanner sc = new Scanner(System.in);
+//         int take_input = sc.nextInt();
+//         switch (take_input) {
+//             case 1:
+//                 System.out.println("You Select Addition ");
+//                 System.out.print("Enter First Number : ");
+//                 first = sc.nextInt();
+//                 System.out.print("Enter Second Number : ");
+//                 second = sc.nextInt();
+//                 System.out.println("The Sum of "+first+" and "+second+" is "+(first+second));
+//                 break;
+//             case 2:
+//                 System.out.println("You Select Subtract ");
+//                 System.out.print("Enter First Number : ");
+//                 first = sc.nextInt();
+//                 System.out.print("Enter Second Number : ");
+//                 second = sc.nextInt();
+//                 System.out.println("The Subtraction of "+first+" and "+second+" is "+(first-second));
+//                 break;
+//             case 3:
+//                 System.out.println("You Select Multiply ");
+//                 System.out.print("Enter First Number : ");
+//                 first = sc.nextInt();
+//                 System.out.print("Enter Second Number : ");
+//                 second = sc.nextInt();
+//                 System.out.println("The Multiplication of "+first+" and "+second+" is "+(first*second));
+//                 break;
+//             case 4:
+//                 System.out.println("You Select Division ");
+//                 System.out.print("Enter First Number : ");
+//                 first = sc.nextInt();
+//                 System.out.print("Enter Second Number : ");
+//                 second = sc.nextInt();
+//                 System.out.println("The division of "+first+" and "+second+" is "+(first/second));
+//                 break;
+        
+//             default:
+//             System.out.println("Opps something went worng Please try again !!");
+//                 break;
+//         }
+//     }
+// }
